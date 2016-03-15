@@ -1,0 +1,40 @@
+.lt-ie9 .messenger.suggestions {
+    display: block !important;
+    height: 50px;
+}
+
+.lt-ie9 .messenger.suggestions .message-bed {
+    background-color: #f8e9d2;
+    border-bottom: 1px solid #ccc;
+}
+
+.lt-ie9 .messenger.suggestions .message-container {
+    padding: 11px 18px 11px 30px;
+}
+
+.lt-ie9 .messenger.suggestions .action-link {
+    font-family: "nyt-franklin", arial, helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    color: #a81817;
+    text-transform: uppercase;
+}
+
+.lt-ie9 .messenger.suggestions .alert-icon {
+    background: url('http://i1.nyt.com/images/icons/icon-alert-12x12-a81817.png') no-repeat;
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    margin-top: -2px;
+    float: none;
+}
+
+.lt-ie9 .masthead,
+.lt-ie9 .navigation,
+.lt-ie9 .comments-panel {
+    margin-top: 50px !important;
+}
+
+.lt-ie9 .ribbon {
+    margin-top: 97px !important;
+}
